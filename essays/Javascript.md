@@ -6,7 +6,7 @@ title: "My Experience with JavaScript"
 date: 2023-08-31
 published: true
 labels:
-  - Programming Languages
+  - Programming Languages 
 ---
 
 Learning a new programming language will always feel like a daunting task for me. It is like starting at ground zero. While I have tools under my belt, no language is the same. Despite this, I found that learning JavaScript didn’t feel the same way. While using the skills I learned from learning Java, C and C++, the learning experience has felt more like review, practice and adding on to my “toolset” of languages. Comparing them all, I think that along with Java, JavaScript is one of my favorite programming languages. The syntax feels straightforward, and with my previous knowledge of Java and C completing the basics on freecodecamp.com was not a difficult task.
