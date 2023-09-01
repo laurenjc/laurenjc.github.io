@@ -41,74 +41,43 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Ark Pet Hospital",
+      "position": "Kennel Tech / Veterinary Assistant",
+      "startDate": "2020-05-01",
+      "endDate": "2021-07-27",
+      "summary": Assisted in exams, grooming and cleaning/sterilizing the office.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Administering medication, vaccines and filling prescriptions, preparing and assisting and restraining in exams",
+        "Covered for other veterinary technicians when needed"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Antioch Animal Services",
+      "website": "https://www.antiochca.gov/police/animal-services/",
+      "position": "Animal Shelter Volunteer",
+      "startDate": "2019-01-01",
+      "endDate": "2019-07-21",
+      "summary": "Maintained the shelter and cared for animals",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Hawaii Pacific University Merit Scholarship",
+      "date": "2021-2022",
+      "awarder": "Hawaii Pacific University",
+      "summary": "Scholarships awarded to incoming freshmen based on academic abilities."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Seinan Summer Program Certificate",
+      "date": "2023",
+      "awarder": "Seinan Gakuin University",
+      "summary": "Certificate of completion for the 2023 summer Japanese language and culture intensive course "
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
