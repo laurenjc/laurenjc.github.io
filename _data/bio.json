@@ -1,12 +1,12 @@
 {
-  "basics": {
+  "basics":{
     "name": "Lauren Clayton",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "laurenjc@hawaii.edu",
     "phone": "9254284401",
-    "website": "https://LaurenClayton.github.io",
-    "summary": "I am pursuing a Bachelor’s degree in computer science with a minor in Japanese. I am currently a junior and aim to graduate in May, 2025."
+    "website": "https://laurenjc.github.io",
+    "summary": "I am pursuing a Bachelor’s degree in computer science with a minor in Japanese. I am currently a junior and aim to graduate in May, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "laurenjc", "url": "https://github.com/laurenjc" },
