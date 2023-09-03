@@ -6,7 +6,8 @@ title: "My Goals for the Future"
 date: 2023-09-02
 published: true
 labels:
-  - Engineering
+  - Programming Languages
+  - Security
 ---
 My interest in computer science started from when I was young.  I would come home after school and finish my homework with enough time to play video games. I quickly learned that there is so much customization that can go into video games to make it a completely different experience. In high school, I took my first computer science course, and I was given a new perspective of what I can really do with programming.
 
