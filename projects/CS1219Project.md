@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: 
 title: "Meal Calculator"
 date: 2022
 published: true
