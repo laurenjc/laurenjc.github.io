@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "laurenjc", "url": "https://github.com/laurenjc" },
       { "network": "linkedin", "username": "lauren-clayton-b683a9228", "url": "linkedin.com/in/lauren-clayton-b683a9228" }
-    ],
+    ]
   },
   "interests": [
     { "name": "Security" },
