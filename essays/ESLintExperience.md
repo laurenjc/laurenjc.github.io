@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: img/eslintpng.png
 title: "My Experience With ESLint"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
