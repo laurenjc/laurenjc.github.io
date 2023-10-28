@@ -14,41 +14,42 @@
     ]
   },
   "interests": [
-    { "name": "Security" },
+    { "name": "UX/UI" },
+    { "name": "Web Development },
     { "name": "Software Engineering" },
-    { "name": "Japanese Linguistics" }
+    { "name": "Japanese Linguistics" },
+    { "name": "Photography" },
+    { "name": "Psychology" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript","HTML", "Bootstrap", "Meteor", "MongoDB", "SQL", "Adobe Photoshop"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "g++", "TI LaunchPad" ]
+      "keywords": [ "WindowsOS", "g++", "Unix", "Git/Github" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science",
+      "studyType": "B.A.",
       "startDate": "2022-09-21",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Web Graphics & User Interface Design", "Software Engineering", "Algorithms" ]
     }
   ],
   "work": [
     {
       "company": "Ark Pet Hospital",
       "position": "Kennel Tech / Veterinary Assistant",
-      "startDate": "2020-05-01",
+      "startDate": "2019-05-01",
       "endDate": "2021-07-27",
-      "summary": Assisted in exams, grooming and cleaning/sterilizing the office.",
       "highlights": [
-        "Administering medication, vaccines and filling prescriptions, preparing and assisting and restraining in exams",
-        "Covered for other veterinary technicians when needed"
+        "Assisting patients with scheduling summazing appointments ",
+        "Working with doctors and nurses during exams, vaccinations and surgeries"
       ]
     },
   ],
@@ -61,8 +62,7 @@
       "endDate": "2019-07-21",
       "summary": "Maintained the shelter and cared for animals",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      
       ]
     },
   ],
