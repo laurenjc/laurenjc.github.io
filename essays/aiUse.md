@@ -1,16 +1,15 @@
 ---
 layout: essay
 type: essay
-image: img/eslintpng.png
-title: "My Experience With ESLint"
+title: "Use of A.I in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-21
+date: 2023-11-21
 published: true
 labels:
   - Coding
-  - Coding Standards
+  - A.I
 ---
-<h1> Use of A.I in Coding </h1>
+<h1> Use of A.I in Software Engineering </h1>
 <p> 
   During my fall 2023 semester, our ICS 314 class was given the choice to use A.I in a variety of different ways. During this semester, I experienced using a few A.I tools for 
 the first time, such as Github Copilot and ChatGPT. I found these tools to be extremely useful at times, but they were not a solution for every problem I came across.
@@ -35,4 +34,5 @@ to test our abilities to use what we learned. When I first heard that we were al
 </p>
 
 <h3> What I Would Change</h3>
-<p> Although A.I became extremely helpful during the semester, there were times I feel I was overly reliant, and I ended up wasting a lot of time. I think that if I were to do anything different this semester, I would rely less on A.I and more on my classmates. In our class discord, we had acess to "Smart Question" chat which allowed students to ask each other questions and be active as a community. I think my biggest regret this semester was not engagign in this chatt, where many of my questions could have been answered, while also gaining a relationship with my classmates. I found myself trying to find answers to questions myself, rather than using valuable tools right infront of me; my teachers, TAs, and classmates.</p>
+<p> Although A.I became extremely helpful during the semester, there were times I feel I was overly reliant, and I ended up wasting a lot of time. I think that if I were to do anything different this semester, I would rely less on A.I and more on my classmates. In our class discord, we had acess to "Smart Question" chat which allowed students to ask each other questions and be active as a community. I think my biggest regret this semester was not engagign in this chatt, where many of my questions could have been answered, while also gaining a relationship with my classmates. I found myself trying to find answers to questions myself, rather than using valuable tools right infront of me; my teachers, TAs, and classmates.
+</p>
