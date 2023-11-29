@@ -36,3 +36,11 @@ to test our abilities to use what we learned. When I first heard that we were al
 <h3> What I Would Change</h3>
 <p> Although A.I became extremely helpful during the semester, there were times I feel I was overly reliant, and I ended up wasting a lot of time. I think that if I were to do anything different this semester, I would rely less on A.I and more on my classmates. In our class discord, we had acess to "Smart Question" chat which allowed students to ask each other questions and be active as a community. I think my biggest regret this semester was not engagign in this chatt, where many of my questions could have been answered, while also gaining a relationship with my classmates. I found myself trying to find answers to questions myself, rather than using valuable tools right infront of me; my teachers, TAs, and classmates.
 </p>
+
+<h3>Impact on Learning and Understanding</h3>
+<p> During my time in this class, I feel that using A.I has helped me a lot in understand library functions, especially during the final project. I think that one of the downsides is that it could potentially have a negative impact on problem solving abilites. If A.I is used constantly as a tool for problem solving, it may become a setback instead of a learning tool
+</p>
+<h3> Practical Applications</h3>
+<p> Of course, A.I is not an answer for every problem you occur. A.I may be able to answer simple problems within coding assignments, but the more complicate the problem gets, the more context the A.I would need. At that point, it is no longer convienent, and it is much more helpful to ask a real person to review your work. 
+</p>
+<h3> Comparative Analysis </h3>
