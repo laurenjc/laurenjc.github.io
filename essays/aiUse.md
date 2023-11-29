@@ -43,4 +43,12 @@ to test our abilities to use what we learned. When I first heard that we were al
 <h3> Practical Applications</h3>
 <p> Of course, A.I is not an answer for every problem you occur. A.I may be able to answer simple problems within coding assignments, but the more complicate the problem gets, the more context the A.I would need. At that point, it is no longer convienent, and it is much more helpful to ask a real person to review your work. 
 </p>
-<h3> Comparative Analysis </h3>
+<h3> Comparative Analysis and the Future </h3>
+<p> I think that incorporating the use in A.I in education is important in respect to technology today. Most people use some sort of A.I program to assist their 
+education experience. I think that instead of instructures discoraging its use, teaching students how to incorportate it in their education eperience ethically is is a better solution. Students can incorporate their own ideas and solutions and enhance their experience with A.I ethically. In the future, I think its use will become even more dominate, so it is better now to teach students how to use it ethically. This will not only enhance the education experience, but prepare students for real life scenarios. </p>
+
+<h2> Conclusion </h2>
+<p>
+  Personally, I believe that there are many benefits of encouraging A.I use in the classroom. As technology advances, more students and companies are incorporating these technologies into their worklife. However, there are unethical ways to use A.I, and it is important to understand the difference of using it as a tool to help and using it to rely on creating all of your work. 
+</p>
+
