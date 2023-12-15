@@ -4,7 +4,7 @@ type: essay
 image: img/2023-10-07.png
 title: "Pure CSS to Bootstrap 5"
 date: 2023-10-06
-published: true
+published: false
 labels:
   - Programming Languages 
 ---
