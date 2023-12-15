@@ -4,7 +4,7 @@ type: project
 image: 
 title: "Meal Calculator"
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "Framework for a Website I created in course CS1219."
