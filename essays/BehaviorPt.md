@@ -7,12 +7,13 @@ date: 2023-11-30
 published: true
 labels:
   - Coding
-  - Behavorial Patterns
+  - Behavioral Patterns
 ---
 
+<img src="https://scaler.com/topics/images/types_of_patterns.webp" alt="behavioral">
 <h1>Design Patterns: Making Your Code Look Less Embarrassing </h1>
 <p>
-  When first learning how to code, often time programs are often filled with repetitive if else Boolean statements. As you become familiar with elementary techniques, you start to learn to apply design patterns without even realizing it. Design patterns are most described as a solution to reoccurring problems. 
+  When first learning how to code, programs are often filled with repetitive if else Boolean statements. As you become familiar with elementary techniques, you start to learn to apply design patterns without even realizing it. Design patterns are most described as a solution to reoccurring problems. 
 </p>
 <h2> Types of Behavioral Patterns </h2>
 <p>
@@ -25,7 +26,7 @@ labels:
   Behavioral design patterns deal with the way objects operate between each other, making them more dynamic. Because this design pattern focuses on communication, it is largely used in web applications.
 </p>
 <p>
-Lastly, the structural design pattern’s goal is to simplify the design by identifying relationships between them. This pattern makes it easier to adjust small parts of an algorithm without having to manipulate the entire system.   
+Lastly, the structural design pattern aims to simplify the design by identifying relationships between them. This pattern makes it easier to adjust small parts of an algorithm without having to manipulate the entire system.   
 </p>
 <h2> Final Thoughts</h2>
 <p>
