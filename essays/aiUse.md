@@ -9,6 +9,7 @@ labels:
   - Coding
   - A.I
 ---
+<img src="https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64148ed756708f9b82464c96_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai.webp" alt="A.I">
 <h1> Use of A.I in Software Engineering </h1>
 <p> 
   During my fall 2023 semester, our ICS 314 class was given the choice to use A.I in a variety of different ways. During this semester, I experienced using a few A.I tools for 
@@ -16,21 +17,21 @@ the first time, such as Github Copilot and ChatGPT. I found these tools to be ex
 </p>
 
 <h3> WODS </h3>
-<p> During the semester we had "WODS", which were assignments to help us apply techniques we learned throughout the semester. Experience Wods were 
-  homework assignments to get familiar with new techniques, in-class practice WODs prepared us for upcomming quizes, and in-class WODs were the quizes given every week
-to test our abilities to use what we learned. When I first heard that we were allowed to use the A.I during all of our work, I felt hesitant, as I thought that by using A.I
-  I would not be learning anything, and simply copying and pasting code. I decided that throughout the semester, I would avoid using tools like ChatGPT to solve problems in the homework assignments. When completing the in class practice and quiz WODS, I found that GitHub Copilot was extremely helpful when I had to write repetitive code and imports. It was also very useful for corecting mistakes in my code. Since our WOD quizzes were times, using ChatGPT to find and explain errors in my code saved me a lot of time. ChatGPT provides good explanations for mistakes and explained how to correct them well. However, ChatGPT could not solve every problem that I came across. For these tools to be useful, I believe that you would need to have some basic knowledge of what you are working with, but is very useful for using new tools.
+<p> During the semester we had "WODS", which were assignments to help us apply techniques we learned throughout the semester. Experience WODs were 
+  homework assignments to get familiar with new techniques, in-class practice WODs prepared us for upcoming quizzes, and in-class WODs were the quizzes given every week
+to test our abilities to use what we learned. When I first heard that we were allowed to use the A.I during all of our work, I felt hesitant, as I thought that using A.I
+  I would not be learning anything, and simply copying and pasting code. I decided that throughout the semester, I would avoid using tools like ChatGPT to solve problems in the homework assignments. When completing the in-class practice and quiz WODS, I found that GitHub Copilot was extremely helpful when I had to write repetitive code and imports. It was also very useful for correcting mistakes in my code. Since our WOD quizzes were times, using ChatGPT to find and explain errors in my code saved me a lot of time. ChatGPT provides good explanations for mistakes and explains how to correct them well. However, ChatGPT could not solve every problem that I came across. For these tools to be useful, I believe that you would need to have some basic knowledge of what you are working with, but is very useful for using new tools.
 </p>
 
 <h3> Essays </h3>
-<p> Before taking this cours, I would have said that I have never used A.I to write an essay, but learing what machine learning truly is, I realize that I heavily rely on tools such as grammarly and autocorrect for as long as I can remeber. I think that people in general do not realize how much we utilize A.I in our daily lives, and there is a stigma around its existance. However, just like the WODs, I feel that using A.I to assist in my essay writing helps to correct mistakes and improve grammar uses, making essays more legible and professional. 
+<p> Before taking this course, I would have said that I have never used A.I to write an essay, but learning what machine learning truly is, I realize that I  have relied on tools such as Grammarly and Autocorrect for as long as I can remember. I think that people in general do not realize how much we utilize A.I in our daily lives, and there is a stigma around its existence. However, just like the WODs, I feel that using A.I assist in my essay writing helps to correct mistakes and improve grammar uses, making essays more legible and professional. 
 </p>
 
 <h3> Final Project </h3>
-<p> For our final project, we were given an assignment to create a website that directy benefits the UH Manoa community. This was the one project I feel that I used A.I the most with. I often ran into problems that simply could not be taught in one semster, and problems that would be too specific to use our "smart question" discord chat. For example, In our project, one problem that we came across was trying to create two different NavBars to be used in two different situations. After not finding a solution online, ChatGPT explained that this problem could be solved by using the funtion useLocation. Not only did we learn about a new function, but also recieved a helpful explanation. Not only using new functions, but ChatGPT was helpful when wanting fix some CSS code. However, I feel that researching myself was more helpful for styling the website. 
+<p> For our final project, we were given an assignment to create a website that directly benefits the UH Manoa community. This was the one project I felt that I used A.I the most with. I often ran into problems that simply could not be taught in one semester, and problems that would be too specific to use our "smart question" discord chat. For example, In our project, one problem that we came across was trying to create two different NavBars to be used in two different situations. After not finding a solution online, ChatGPT explained that this problem could be solved by using the function useLocation. Not only did we learn about a new function, but also received a helpful explanation. Not only using new functions, but ChatGPT was helpful when wanting to fix some CSS code. However, I feel that researching myself was more helpful for styling the website. 
 </p>
 <h3> Documentation </h3>
-<p> One thing that I need to get better with when coding is Documentaion. When asking questions in ChatGPT, I often recieved documentation in the code which I incorporated into my own projects. Although infrequent, there were times when GitHub Copilot also assisted in documentation, which was extremely helpful when tryign to write code in a time constraint. 
+<p> One thing that I need to get better with when coding is documentation. When asking questions in ChatGPT, I often received documentation in the code which I incorporated into my own projects. Although infrequent, there were times when GitHub Copilot also assisted in documentation, which was extremely helpful when trying to write code under a time constraint. 
 </p>
 
 <h3> What I Would Change</h3>
