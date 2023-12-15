@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Experience with JavaScript"
 date: 2023-08-31
-published: true
+published: false
 labels:
   - Programming Languages 
 ---
