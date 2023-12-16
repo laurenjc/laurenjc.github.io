@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot (19).png
+image: img/final.png
 title: "CS 314 Final Project: Manoa Exchange"
 date: 2022
 published: true
