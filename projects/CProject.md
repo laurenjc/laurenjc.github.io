@@ -10,6 +10,7 @@ labels:
   - HTML / CSS
   - Javascript
 ---
+<img src="img/imgcreate.png" alt="createpost">
 <h1> Creating My First Website </h1>
 <p> For my final project in my CS 314 class, we were tasked to create a website that would benefit University of Hawaii students and the community. Our group's idea was to create an application that allows past students who have traveled abroad to post reviews of their experience and document their time in the place they traveled to. We incorporated user feedback, and an agile programming manegment technique to sucessfully deploy our website.</p>
 <h2> Personal Contributions </h2>
