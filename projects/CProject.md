@@ -5,7 +5,7 @@ image: img/final.png
 title: "CS 314 Final Project: Manoa Exchange"
 date: 2022
 published: true
-labels:
+labels: img/Screenshot 2023-12-15 221732.png
   - Web development
   - HTML / CSS
   - Javascript
