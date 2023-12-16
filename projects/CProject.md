@@ -2,11 +2,19 @@
 layout: project
 type: project
 image: img/Screenshot (19).png
-title: "First C++ project:"
+title: "CS 314 Final Project: Manoa Exchange"
 date: 2022
 published: true
 labels:
-  - C/C++
-  - UNIX
+  - Web development
+  - HTML / CSS
+  - Javascript
 ---
-This was the first computer science assignment given to me when learning C / C++. Though simple, it helped me get used to coding and taught me important differences between other programming languages such as Java. When first learning C/ C++, I found the differences between Java and C very daunting. Not only this but learning how to code in UNIX felt daunting as well. However, after the course, I feel that these skills are very important for me to keep practicing. 
+<h1> Creating My First Website </h1>
+<p> For my final project in my CS 314 class, we were tasked to create a website that would benefit University of Hawaii students and the community. Our group's idea was to create an application that allows past students who have traveled abroad to post reviews of their experience and document their time in the place they traveled to. We incorporated user feedback, and an agile programming manegment technique to sucessfully deploy our website.</p>
+<h2> Personal Contributions </h2>
+<p> In the first stages of the project, I was tasked on created a sign in / sign up page for users to create their account with. As we moved forward, I implemented other fuctions in the website, including an obscenity blocker which prevents users from using any foul language in the posts they create. Along with my teammates, I also worked on the styling of the website, including the colorscheme, font styles and overall page and component layouts.</p>
+<h2>Final Thoughts </h2>
+<p>
+  Throughout the course, and specifically this project, I learned valuable techniques and the process of working in a team to deliver a working website. This has been one of my favorite experiences in a CS class, especially seeing my work being deployed for others to see. The process was completely different than how I was expecting, but the organization that our group had made the workflow managable, and in the end we were able to deploy a website that we were all proud of. I enjoyed this experience a lot as it also allowed me to explore my new interest of front-end development. Although we were only given a few weeks to deliever our final project, we sucessfully created something that would be useful for students in our university. 
+</p>
