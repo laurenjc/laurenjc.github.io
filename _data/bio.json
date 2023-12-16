@@ -9,8 +9,7 @@
     "summary": "I am pursuing a Bachelor’s degree in computer science with a minor in Japanese. I am currently a junior and aim to graduate in May, 2025.",
     "location": { "address": "1631 S Beretania ", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "laurenjc", "url": "https://github.com/laurenjc" },
-      { "network": "linkedin", "username": "lauren-clayton-b683a9228", "url": "linkedin.com/in/lauren-clayton-b683a9228" }
+      { "network": "github", "username": "laurenjc", "url": "https://github.com/laurenjc" }
     ]
   },
   "interests": [
