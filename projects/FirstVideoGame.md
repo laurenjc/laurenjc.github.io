@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/Screenshot 2024-03-22 181714.png size=500px
+image: projects/Screenshot 2024-03-22 181714.png
 title: "My First Video Game"
 date: 2024
 published: true
