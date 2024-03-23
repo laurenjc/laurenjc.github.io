@@ -16,5 +16,6 @@ summary: "I designed characters and created my first video game."
 <p>
   During my ICS 485 class, students were tasked to create a project, with the restrictions that we were only allowed to create sounds and assests by hand, without using any downloadable resources. This was my first time using Unity and Maya and coding in C#. The most difficult aspect about this project was creating all assets by hand using Maya. I don't have much art experience, but working with students in the Art department helped me understand better and ease the learning curve. 
 </p>
+[Link to Project](https://drive.google.com/drive/folders/1qipi0XnrYPz6GDixKPRBcTJdDXXc-NAQ)
 
 
