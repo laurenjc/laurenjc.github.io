@@ -1,0 +1,83 @@
+{
+  "basics":{
+    "name": "Lauren Clayton",
+    "label": "Student",
+    "picture": "https://github.com/laurenjc.png",
+    "email": "laurenjc@hawaii.edu",
+    "phone": "9254284401",
+    "website": "https://laurenjc.github.io",
+    "summary": "I am pursuing a Bachelor’s degree in computer science with a minor in Japanese. I am currently a junior and aim to graduate in May, 2025.",
+    "location": { "address": "1631 S Beretania ", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "laurenjc", "url": "https://github.com/laurenjc" }
+    ]
+  },
+  "interests": [
+    { "name": "UX/UI" },
+    { "name": "Web Development" },
+    { "name": "Software Engineering" },
+    { "name": "Japanese Linguistics" },
+    { "name": "Photography" },
+    { "name": "Psychology" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript","HTML", "Bootstrap", "Meteor", "MongoDB", "SQL", "Adobe Photoshop"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "g++", "Unix", "Git/Github" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2022-09-21",
+      "endDate": "Present",
+      "courses": [ "Web Graphics & User Interface Design", "Software Engineering", "Algorithms" ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Ark Pet Hospital",
+      "position": "Kennel Tech / Veterinary Assistant",
+      "startDate": "2019-05-01",
+      "endDate": "2021-07-27",
+      "highlights": [
+        "Assisting patients with scheduling and summazing appointments ",
+        "Working with doctors and nurses during exams, vaccinations and surgeries",
+        "Organizing office supplies and informing doctors and nurses of patient information"
+      ]
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "Antioch Animal Services",
+      "website": "https://www.antiochca.gov/police/animal-services/",
+      "position": "Animal Shelter Volunteer",
+      "startDate": "2019-01-01",
+      "highlights": [
+        "Communicated with potential customers about the adoption process",
+        "Maintained the office and kennels with other team members",
+        "Assisted in regular care for animals in the shelter"
+      ]
+    },
+  ],
+  "awards": [
+    {
+      "title": "Hawaii Pacific University Merit Scholarship",
+      "date": "2021-2022",
+      "awarder": "Hawaii Pacific University",
+      "summary": "Scholarships awarded to incoming freshmen based on academic abilities."
+    },
+    {
+      "title": "Seinan Summer Program Certificate",
+      "date": "2023",
+      "awarder": "Seinan Gakuin University",
+      "summary": "Certificate of completion for the 2023 Summer Japanese Language and Culture Intensive Course "
+    }
+  ],
+}
